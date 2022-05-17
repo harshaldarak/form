@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.box{
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+.box input{
+    border: 2px solid rebeccapurple;
+    
+}
+.btn{
+    padding: 1rem;
+    border: 2px solid red;
+    border-radius: 10px;
+}
